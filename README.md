@@ -1,10 +1,9 @@
 # Hi there, I'm Borislav👋 
 
 ## I'm a Student!
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Unity Engine and Blender
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Master Unity
+- 🥅 2022 Goal: Master Unity Engine and create a game
 - ⚡ Fun fact: I love to create digital art by using Adobe Photoshop
 
 ### Connect with me:
