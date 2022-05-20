@@ -1,7 +1,7 @@
 # Hi there, I'm Borislav👋 
 
 ## I'm a Student!
-- 🌱 I’m currently learning C#, Unity Engine and Blender
+- 🌱 I’m currently learning C#, Unity Engine and Blender   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BorislavChernev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goal: Master Unity Engine and Python
 - ⚡ Fun fact: I love to create digital art by using Adobe Photoshop
@@ -23,7 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BorislavChernev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
 [twitter]: https://twitter.com/B_Chernev
 [instagram]: https://www.instagram.com/borislav.chernev/
