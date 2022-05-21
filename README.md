@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **borocool359@gmail.com**
 
+- 🥅 2022 Goals: Master Unity Engine, Blender and Python
+
 - ⚡ Fun fact **I love to create digital art by using Adobe Photoshop**
 
 <h3 align="left">Connect with me:</h3>
