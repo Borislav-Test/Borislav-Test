@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@BorislavChernev 
-BorislavChernev
-/
-BorislavChernev
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-BorislavChernev/.github/workflows/github-actions-demo.yml
-@BorislavChernev
-BorislavChernev Update github-actions-demo.yml
-Latest commit 08d7404 yesterday
- History
- 1 contributor
-56 lines (45 sloc)  1.84 KB
+
 
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
